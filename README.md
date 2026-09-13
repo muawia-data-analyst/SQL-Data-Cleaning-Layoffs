@@ -1,7 +1,7 @@
-# Data Cleaning Project — Layoffs Dataset (SQL)
+# Data Cleaning Project, Layoffs Dataset (SQL)
 
 ## Overview
-A full data cleaning project on a real-world dataset of global company layoffs (2020–2023), using MySQL. Raw data was full of duplicates, inconsistent text formatting, and missing values — this project takes it from messy to analysis-ready.
+A full data cleaning project on a real-world dataset of global company layoffs (2020–2023), using MySQL. Raw data was full of duplicates, inconsistent text formatting, and missing values, this project takes it from messy to analysis-ready.
 
 ## Objective
 To practice professional data cleaning workflow in SQL: working in staging tables (never touching raw data directly), removing duplicates safely, standardizing inconsistent values, and handling missing data logically.
